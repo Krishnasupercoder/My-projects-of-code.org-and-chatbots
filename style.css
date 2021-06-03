@@ -1,0 +1,29 @@
+.line{
+background-color: black;
+height:7px;
+width:100px;
+margin: auto;    
+}
+#app{
+    background:linear-gradient(#8cb6fa 0%,#07ebdb 100%);
+text-align: center;
+}
+body{
+    text-align:center
+}
+#game{
+    background:linear-gradient(#f72d23 0%,#f0e02e 100%);
+    height: 400px;
+    width: auto;
+}
+img{
+transition: transform .2s;
+    margin: 20px
+}
+img:hover{
+    transform:scale(0.5) 
+}
+#chatbot{
+    background:linear-gradient(#05f221 0%,#05f2d2 100%);
+}
+
